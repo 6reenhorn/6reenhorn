@@ -5,7 +5,7 @@
 📍 Currently staying at **Cagayan de Oro, Philippines**  
 
 ## 🌟 About Me  
-Though still starting and a newbie, I continue to work and dream of becoming better every day.  
+Though still new, I continue to work hard to reach the place where I need to be.  
 
 ---
 
