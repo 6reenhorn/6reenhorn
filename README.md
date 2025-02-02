@@ -22,7 +22,7 @@ Though still new, I continue to work hard to reach the place where I need to be.
 ---
 
 ## 📊 GitHub Stats 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=radical) ![](https://count.getloli.com/get/@6reenhorn?theme=rule34)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=6reenhorn&theme=darkhub)
 ---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=dracula)
@@ -30,4 +30,6 @@ Though still new, I continue to work hard to reach the place where I need to be.
 ---
 
 ### 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-6reenhorn-181717?style=for-the-badge&logo=github)](https://github.com/6reenhorn)  
+![Profile Views](https://komarev.com/ghpvc/?username=6reenhorn&color=blue)  [![GitHub](https://img.shields.io/badge/GitHub-6reenhorn-181717?style=for-the-badge&logo=github)](https://github.com/6reenhorn)  
+
+
