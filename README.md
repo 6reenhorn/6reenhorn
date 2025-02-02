@@ -29,7 +29,7 @@ Though still new, I continue to work hard to reach the place where I need to be.
 ---
 
 ## 📊 GitHub Stats 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=radical) ![](https://count.getloli.com/get/@YOUR_GITHUB_USERNAME?theme=rule34)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=radical) ![](https://count.getloli.com/get/@6reenhorn?theme=rule34)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=6reenhorn&theme=darkhub)
 ---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=dracula)
