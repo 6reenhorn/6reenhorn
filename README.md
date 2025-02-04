@@ -20,6 +20,7 @@ Though still new, I continue to work to get to where I envisioned myself to be.
 ---
 
 ## 📊 GitHub Stats 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&theme=tokyonight)  
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=6reenhorn&theme=darkhub)
 ---
@@ -27,7 +28,7 @@ Though still new, I continue to work to get to where I envisioned myself to be.
 
 ---
 
-### 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-6reenhorn-181717?style=for-the-badge&logo=github)](https://github.com/6reenhorn)  
+
+
 
 
