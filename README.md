@@ -1,9 +1,9 @@
 # Hi, I'm John Cyril Espina  
-🎓 Studying at the **University of Science and Technology of Southern Philippines**  
-📍 Currently staying at **Cagayan de Oro, Philippines**  
+🏫 Studying at the **[University of Science and Technology of Southern Philippines]**  
+🎓 Under the **[Bachelor of Science in Computer Science]** Program   
+📍 Currently staying at **[Cagayan de Oro, Philippines]**  
 ## About Me
-💻 Aspiring to be a **Full Stack Developer & Computer Vision Developer**  
-Though still new, I continue to work to get to where I envisioned myself to be.
+💻 Aspiring to be a **[Full Stack Developer]** & **[Computer Vision Developer]**  
 
 ---
 
