@@ -20,9 +20,9 @@
 
 ---
 
-## 📊 GitHub Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&theme=tokyonight)  
+## 📊 GitHub Stats  
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=6reenhorn&theme=darkhub)
 ---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=dracula)
