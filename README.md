@@ -4,8 +4,6 @@
 📍 Currently staying at **[Cagayan de Oro, Philippines]**  
 💻 Aspiring to be a **[Full Stack Developer]** & **[Computer Vision Developer]**  
 
----
-
 ## 🛠 Languages & Technologies  
 
 ### Adept   
