@@ -2,7 +2,6 @@
 🏫 Studying at the **[University of Science and Technology of Southern Philippines]**  
 🎓 Under the **[Bachelor of Science in Computer Science]** Program   
 📍 Currently staying at **[Cagayan de Oro, Philippines]**  
-## About Me
 💻 Aspiring to be a **[Full Stack Developer]** & **[Computer Vision Developer]**  
 
 ---
