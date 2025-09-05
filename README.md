@@ -51,13 +51,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=chartreuse-dark&hide_border=true" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=chartreuse-dark&border=true" alt="" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=chartreuse-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=chartreuse-dark&border=true" />
 </div>
 
 ---
