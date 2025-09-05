@@ -13,7 +13,7 @@
 
 <p style="text-align: center; margin-top: 25px; font-size: 15px; font-weight: bold;">Every repo is a step forward. Every bug, a lesson</p>
 
-<p style="font-family: 'Georgia', serif; font-size: 2em; text-align: center; font-style: italic;"><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">"</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">C</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">o</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">n</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">s</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">i</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">s</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">t</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">e</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">n</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">t</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">i</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">a</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">"</span></p>
+<p style="font-family: 'Georgia', serif; font-size: 2em; text-align: center; font-style: italic;">"Consistentia"</p>
 
 ---
 
