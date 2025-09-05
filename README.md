@@ -1,32 +1,87 @@
-# Hi, I'm John Cyril Espina  
-🏫 Studying at the **[University of Science and Technology of Southern Philippines]**  
-🎓 Under the **[Bachelor of Science in Computer Science]** Program   
-📍 Currently staying at **[Cagayan de Oro, Philippines]**  
-💻 Aspiring to be a **[Full Stack Developer]** & **[Computer Vision Developer]**  
+<style>
+@keyframes glow {
+  0% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff; }
+  50% { text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff; }
+  100% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff; }
+}
+.glow {
+  animation: glow 2s ease-in-out infinite;
+  font-size: 1.2em;
+  text-align: center;
+}
+@keyframes letterGlow {
+  0%, 100% { text-shadow: none; }
+  50% { text-shadow: 0 0 10px #fff, 0 0 20px #fff; }
+}
+.letter {
+  animation: letterGlow 2s infinite;
+}
+.quote {
+  font-family: 'Georgia', serif;
+  font-size: 2em;
+  text-align: center;
+  font-style: italic;
+}
+</style>
 
-## 🛠 Languages & Technologies  
-
-### Adept   
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-### Novice  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠 Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 25px; margin-bottom: 25px;">
+  <div style="">
+    <p style="font-size: 2.5rem; font-weight: bold;">John Cyril Espina</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;USTP+Cagayan+de+Oro;Learning+%26+Building;Aspiring+Developer" alt="Typing SVG" />
+  </div>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=radical)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=6reenhorn&theme=darkhub)
----
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=dracula)
+<p style="text-align: center; margin-top: 25px; font-size: 15px; font-weight: bold;">Every repo is a step forward. Every bug, a lesson</p>
+
+<p class="quote"><span class="letter" style="animation-delay: 0s;">"</span><span class="letter" style="animation-delay: 0.1s;">C</span><span class="letter" style="animation-delay: 0.2s;">o</span><span class="letter" style="animation-delay: 0.3s;">n</span><span class="letter" style="animation-delay: 0.4s;">s</span><span class="letter" style="animation-delay: 0.5s;">i</span><span class="letter" style="animation-delay: 0.6s;">s</span><span class="letter" style="animation-delay: 0.7s;">t</span><span class="letter" style="animation-delay: 0.8s;">e</span><span class="letter" style="animation-delay: 0.9s;">n</span><span class="letter" style="animation-delay: 1.0s;">t</span><span class="letter" style="animation-delay: 1.1s;">i</span><span class="letter" style="animation-delay: 1.2s;">a</span><span class="letter" style="animation-delay: 1.3s;">"</span></p>
 
 ---
 
+### Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div>
+
+### Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</div>
 
 
 
+## GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=github-dark-blue&hide_border=true" alt="" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=dracula" />
+</div>
+
+---
