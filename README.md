@@ -47,7 +47,7 @@
 ## GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=chartreuse-dark&border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=chartreuse-dark&border=true" />
 </div>
 
 <div align="center">
