@@ -1,20 +1,11 @@
 <style>
-@keyframes glow {
-  0% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff; }
-  50% { text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff; }
-  100% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff; }
-}
 .glow {
-  animation: glow 2s ease-in-out infinite;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff;
   font-size: 1.2em;
   text-align: center;
 }
-@keyframes letterGlow {
-  0%, 100% { text-shadow: none; }
-  50% { text-shadow: 0 0 10px #fff, 0 0 20px #fff; }
-}
 .letter {
-  animation: letterGlow 2s infinite;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff;
 }
 .quote {
   font-family: 'Georgia', serif;
@@ -37,7 +28,7 @@
 
 <p style="text-align: center; margin-top: 25px; font-size: 15px; font-weight: bold;">Every repo is a step forward. Every bug, a lesson</p>
 
-<p class="quote"><span class="letter" style="animation-delay: 0s;">"</span><span class="letter" style="animation-delay: 0.1s;">C</span><span class="letter" style="animation-delay: 0.2s;">o</span><span class="letter" style="animation-delay: 0.3s;">n</span><span class="letter" style="animation-delay: 0.4s;">s</span><span class="letter" style="animation-delay: 0.5s;">i</span><span class="letter" style="animation-delay: 0.6s;">s</span><span class="letter" style="animation-delay: 0.7s;">t</span><span class="letter" style="animation-delay: 0.8s;">e</span><span class="letter" style="animation-delay: 0.9s;">n</span><span class="letter" style="animation-delay: 1.0s;">t</span><span class="letter" style="animation-delay: 1.1s;">i</span><span class="letter" style="animation-delay: 1.2s;">a</span><span class="letter" style="animation-delay: 1.3s;">"</span></p>
+<p class="quote"><span class="letter">"</span><span class="letter">C</span><span class="letter">o</span><span class="letter">n</span><span class="letter">s</span><span class="letter">i</span><span class="letter">s</span><span class="letter">t</span><span class="letter">e</span><span class="letter">n</span><span class="letter">t</span><span class="letter">i</span><span class="letter">a</span><span class="letter">"</span></p>
 
 ---
 
