@@ -17,8 +17,7 @@
 
 ---
 
-### Tech Stack
-<div align="left">
+<div align="center">
   <img src="banner.svg" />
 </div>
 
