@@ -1,1 +1,0 @@
-- [x] Update README.md: remove glow from current focus, add left-to-right per letter glow to quote "Consistentia" (make bigger), remove visitor counter, replace with contribution/commit graph
