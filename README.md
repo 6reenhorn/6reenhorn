@@ -9,10 +9,7 @@
 ---
 
 <div align="center">   
-
-  #### Every repo is a step forward. Every bug, a lesson
-  
-  ### "Consistentia"
+  <img src="quote.svg" />
 </div>
 
 ---
