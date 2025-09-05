@@ -1,19 +1,4 @@
-<style>
-.glow {
-  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff;
-  font-size: 1.2em;
-  text-align: center;
-}
-.letter {
-  text-shadow: 0 0 10px #fff, 0 0 20px #fff;
-}
-.quote {
-  font-family: 'Georgia', serif;
-  font-size: 2em;
-  text-align: center;
-  font-style: italic;
-}
-</style>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 25px; margin-bottom: 25px;">
   <div style="">
@@ -28,7 +13,7 @@
 
 <p style="text-align: center; margin-top: 25px; font-size: 15px; font-weight: bold;">Every repo is a step forward. Every bug, a lesson</p>
 
-<p class="quote"><span class="letter">"</span><span class="letter">C</span><span class="letter">o</span><span class="letter">n</span><span class="letter">s</span><span class="letter">i</span><span class="letter">s</span><span class="letter">t</span><span class="letter">e</span><span class="letter">n</span><span class="letter">t</span><span class="letter">i</span><span class="letter">a</span><span class="letter">"</span></p>
+<p style="font-family: 'Georgia', serif; font-size: 2em; text-align: center; font-style: italic;"><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">"</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">C</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">o</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">n</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">s</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">i</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">s</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">t</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">e</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">n</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">t</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">i</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">a</span><span style="text-shadow: 0 0 10px #fff, 0 0 20px #fff;">"</span></p>
 
 ---
 
