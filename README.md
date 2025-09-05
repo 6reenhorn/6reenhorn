@@ -1,19 +1,19 @@
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 25px; margin-bottom: 25px;">
-  <div style="">
-    <p style="font-size: 2.5rem; font-weight: bold;">John Cyril Espina</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;USTP+Cagayan+de+Oro;Learning+%26+Building;Aspiring+Developer" alt="Typing SVG" />
-  </div>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39d353&center=true&vCenter=true&width=435&lines=Computer+Science+Student;USTP+Cagayan+de+Oro;;Full-Stack+Developer;Machine+Learning+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
-<p style="text-align: center; margin-top: 25px; font-size: 15px; font-weight: bold;">Every repo is a step forward. Every bug, a lesson</p>
+<div align="center">   
 
-<p style="font-family: 'Georgia', serif; font-size: 2em; text-align: center; font-style: italic;">"Consistentia"</p>
+  #### Every repo is a step forward. Every bug, a lesson
+  
+  ### "Consistentia"
+</div>
 
 ---
 
@@ -46,18 +46,18 @@
 
 ## GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6reenhorn&show_icons=true&theme=github-dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6reenhorn&layout=compact&theme=github-dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=github-dark-blue&hide_border=true" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=github-dark&hide_border=true" alt="" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6reenhorn&theme=github-dark" />
 </div>
 
 ---
