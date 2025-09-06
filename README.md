@@ -58,6 +58,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=chartreuse-dark&border=true" alt="" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=6reenhorn&theme=matrix&no-frame=true&margin-w=10" />
+</div>
+
 ---
 
 <div align="center">
