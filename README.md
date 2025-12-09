@@ -1,12 +1,19 @@
 
-<img align='left' style='margin-right: 10px' width='300px' height='400px' src='https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg' />
+<img align='right' style='margin-right: 10px' width='300px' height='400px' src='https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg' />
 
 #
 ---
 
-<div align='left'>
+<div align='right'>
   <table>
   <tr>
+
+  <td align="right">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=dark&hide_border=false" alt="GitHub Streak" />
+  
+  </td>
+
   <td>
   
   <div>
@@ -18,11 +25,7 @@
   </div>
   
   </td>
-  <td align="right">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=dark&hide_border=false" alt="GitHub Streak" />
-  
-  </td>
   </tr>
   </table>
 </div>
