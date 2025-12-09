@@ -8,7 +8,7 @@
   <table>
   <tr>
 
-  <td align="right">
+  <td align="right" border='none'>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=dark&hide_border=false" alt="GitHub Streak" />
   
