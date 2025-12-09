@@ -9,7 +9,7 @@
   <img width='120px' src="https://komarev.com/ghpvc/?username=6reenhorn&color=brightgreen" alt="watching_count" />
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 #
 
