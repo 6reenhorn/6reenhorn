@@ -1,14 +1,17 @@
 
-<img align='left' style='border: 2px solid #a6a6a6; border-radius: 6px; margin-right: 12px; padding: 6px' width='300px' height='400px' src='https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg' />
+<img align='left' style='margin-right: 20px' border='1px' padding='13px' width='300px' height='400px' src='https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg' />
 
-<div style='border-bottom: 1px solid #a6a6a6; '>
+#
+
+<div>
     <img width='100px' alt="GitHub Org's stars" src="https://img.shields.io/github/stars/6reenhorn">
     <img width='90px' src="https://visitor-badge.laobi.icu/badge?page_id=6reenhorn.6reenhorn" alt="Visitors" />
     <img width='120px' src="https://komarev.com/ghpvc/?username=6reenhorn&color=brightgreen" alt="watching_count" />
 </div>
 
 ---
-<div style='border-top: 2px solid #a6a6a6; border-right: 2px solid #a6a6a6; border-radius: 6px; margin-top: 6px'>
+
+<div>
 
   ```typescript
   const aboutMe = {
@@ -39,3 +42,5 @@
   ```
 
 </div>
+
+---
