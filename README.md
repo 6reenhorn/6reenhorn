@@ -1,5 +1,5 @@
 
-<img align='right' style='margin-right: 10px' width='300px' height='450px' src='https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg' />
+<img float='right' align='right' style='margin-right: 10px' width='300px' height='450px' src='https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg' />
 
 #
 ---
