@@ -4,25 +4,13 @@
 #
 ---
 
-<div align='right'>
+<div align='center'>
   <table>
   <tr>
 
   <td align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=6reenhorn&theme=dark&hide_border=false" alt="GitHub Streak" />
-  
-  </td>
-
-  <td>
-  
-  <div align='right'>
-    <img width='100px' alt="GitHub Org's stars" src="https://img.shields.io/github/stars/6reenhorn">
-    <br>
-    <img width='90px' src="https://visitor-badge.laobi.icu/badge?page_id=6reenhorn.6reenhorn" alt="Visitors" />
-    <br>
-    <img width='120px' src="https://komarev.com/ghpvc/?username=6reenhorn&color=brightgreen" alt="watching_count" />
-  </div>
   
   </td>
   
