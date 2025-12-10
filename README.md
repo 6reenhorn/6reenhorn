@@ -36,7 +36,7 @@
       languages: ["JavaScript", "TypeScript", "Python", "HTML5", "CSS3"],
       technologies: {
         frontend: { frameworks: ["React"], styling: ["Tailwind CSS"] },
-        backend: { javascript: ["Node.js"], python: ["Python"] },
+        backend: { javascript: ["Node.js", "Express"], python: ["Django"] },
         databases: ["PostgreSQL"]
       }
     },
