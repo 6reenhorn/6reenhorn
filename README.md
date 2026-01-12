@@ -28,7 +28,7 @@
       name: "6reenhorn",
       education: "CS Student @ USTP Cagayan de Oro",
       location: "Cagayan de Oro, PH",
-      workingOn: ["Full-Stack Projects"],
+      workingOn: ["Personal Portfolio Website"],
       currentlyLearning: ["Advanced React Patterns", "TypeScript Deep Dive"]
     },
   
