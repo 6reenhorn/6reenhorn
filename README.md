@@ -24,30 +24,35 @@
 
   ```typescript
   const aboutMe = {
-    developer: {
-      name: "6reenhorn",
-      education: "CS Student @ USTP Cagayan de Oro",
-      location: "Cagayan de Oro, PH",
-      workingOn: ["Personal Portfolio Website"],
-      currentlyLearning: ["Advanced React Patterns", "TypeScript Deep Dive"]
-    },
-  
-    techStack: {
-      languages: ["JavaScript", "TypeScript", "Python", "HTML5", "CSS3"],
-      technologies: {
+  developer: {
+    name: "6reenhorn",
+    education: "CS Student @ USTP Cagayan de Oro",
+    location: "Cagayan de Oro, PH",
+    workingOn: ["Personal Portfolio Website"],
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Backend Engineering with FastAPI",
+        "Python for AI and ML",
+    ]
+  },
+
+  techStack: {
+    languages: ["JavaScript", "TypeScript", "Python", "HTML5", "CSS3"],
+    technologies: {
         frontend: { frameworks: ["React"], styling: ["Tailwind CSS"] },
-        backend: { javascript: ["Node.js", "Express"], python: ["Django"] },
+        backend: { javascript: ["Node.js", "Express"], python: ["FastAPI", "Django"] },
         databases: ["PostgreSQL"]
-      }
-    },
-  
-    futureGoals: {
-      machineLearning: ["TensorFlow", "PyTorch", "Scikit-learn"],
-      exploring: ["Deep Learning", "Neural Networks", "AI Development"]
     }
-  } as const;
-  
-  type AboutMe = typeof aboutMe;
+  },
+
+  futureGoals: {
+      nearTerm: ["Backend Engineering", "AI Engineering", "RAG Systems"],
+      longTerm: ["ML Engineering", "Deep Learning", "Neural Networks"],
+      exploring: ["PyTorch", "LangChain", "LlamaIndex", "HuggingFace"]
+  }
+} as const;
+
+type AboutMe = typeof aboutMe;
   ```
 
 </div>
