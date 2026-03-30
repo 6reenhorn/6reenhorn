@@ -10,7 +10,7 @@
 
   <td align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=6reenhorn&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=6reenhorn&theme=dark&hide_border=true)
   
   </td>
   
